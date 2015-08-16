@@ -1,12 +1,14 @@
-from flask import Flask 
+from flask import Flask, render_template
+from random import randint
+
 application = Flask( __name__ ) 
 
 @application.route( '/' ) 
-def pick_a_restaurant():
-  from random import randint
+def index():
   with open( 'list.txt' ) as lis:
     restaurants = lis.readlines() 
-  return restaurants[ randint( 0, len( restaurants ) ) ] 
+    pick = restaurants[ randint( 0, len( restaurants ) ) ] 
+  return render_template( 'index.html', pick=pick ) 
 
 if __name__ == '__main__':
-  application.run()
+  application.run( debug=True ) 
