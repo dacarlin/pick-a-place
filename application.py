@@ -7,7 +7,7 @@ application = Flask( __name__ )
 def index():
   with open( 'list.txt' ) as lis:
     restaurants = lis.readlines() 
-    pick = restaurants[ randint( 0, len( restaurants ) ) ] 
+    pick = restaurants[ randint( 0, len( restaurants ) ) ].strip()  
   return render_template( 'index.html', pick=pick ) 
 
 if __name__ == '__main__':
