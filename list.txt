@@ -10,7 +10,7 @@ Cloud Forest Cafe
 Crepeville
 Davis Noodle City
 Davis Oshio Cafe
-Davis Sushi Buffet Japanese Restaurant
+Davis Sushi Buffet 
 Delta of Venus
 El Mariachi
 Farmer’s Kitchen Cafe
@@ -43,19 +43,17 @@ Redrum Burger
 Sam’s Mediterranean
 Seasons
 Shabu Extreme
-Silver Dragon
 Sophia’s Thai Kitchen
 Subway
-Sugar Daddies
 Sunrise Restaurant
 Taco Bell
 Taqueria El Burrito
 Thai Canteen
 Thai Nakorn
 Thai Recipes
-The Co-Op
-The Dumpling House
-The Posh Bagel
+Co-Op
+Dumpling House
+Posh Bagel
 Tommy J’s
 Tres Hermanas
 Tucos
@@ -64,9 +62,9 @@ Vampire Penguin
 Village Bakery (slices) 
 Village Pizza & Grill
 Wingstop
-Woodstock’s Pizza
+Woodstock’s 
 Yakitori Yuchan
 Yoloberry
 Zen Toro
-Zia’s Delicatessen
+Zia’s 
 de Vere’s Irish Pub
